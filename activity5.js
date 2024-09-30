@@ -8,7 +8,7 @@ let favActorLastName = "Poe Jr."
 let fullName = favActorFirstName +""+ favActorLastName;
 
 //Create variable name (uppercase) & CAPITALIZE your favorite actor name.
-let uppercase = fullname.toUpperCase();
+let uppercase = fullName.toUpperCase();
 
 // Create a variable name (message) & store the message about your fav actor.
 let message = `My favorite actor is ${uppercase}. He is known for his iconic roles in action films.`;

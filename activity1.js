@@ -10,7 +10,7 @@ let gender =19;
 //Create variable name (facebookAcct) & store your Facebook Name.
 let facebookAcct ="Jordan Calatan Ligados";
 
-//Finally log all variables to the console using code runner in vscode.
+//Finally log all variables to the console.
 console.log(name);
 console.log(whatDoYouWannaBecomeInYourLife);
 console.log(gender);
